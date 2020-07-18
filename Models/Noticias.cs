@@ -26,7 +26,7 @@ namespace ProjetoE_Players.Models
         }
 
         /// <summary>
-        /// Cria um método que volta uma linha(criada em outro método PrepararTexto)
+        /// Criar um método que volta uma linha(criada em outro métofo PrepararTexto)
         /// </summary>
         /// <param name="n">noticia</param>
         public void Create(Noticias n)
